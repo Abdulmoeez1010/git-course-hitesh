@@ -1,1 +1,6 @@
 This is my file one and i'm pushing this into my remote repo.
+
+ git push --set-upstream origin main: Means that origin hamari us url hai rempte repo ka and jo main branch pr
+ push kiya hai usi ko origin pr bhi push kr do.
+ means that this is used (--set-upstream) instad of -u.
+ 
